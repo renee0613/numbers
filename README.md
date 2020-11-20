@@ -1,8 +1,8 @@
 ## Identifying Information: 
-1. Name: 
-2. Student ID: 
-3. Email: 
-4. Class: 
+1. Name: Kewei Zhang
+2. Student ID: 2374921
+3. Email: zhangkeweirenee@gmail.com
+4. Class: CPSC 298
 5. Assignment: numbers 
 
 ## Application Purpose
